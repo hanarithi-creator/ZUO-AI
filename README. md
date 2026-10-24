@@ -1,0 +1,10 @@
+# ZUO-AI
+
+An AI-powered data analysis application.
+
+## Features
+- Upload CSV datasets
+- Preview data
+- Generate statistical summaries
+- Identify missing values
+- Ask basic questions about your dataset
